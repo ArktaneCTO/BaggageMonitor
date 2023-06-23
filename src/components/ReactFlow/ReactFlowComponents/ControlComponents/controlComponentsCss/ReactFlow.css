@@ -1,0 +1,11 @@
+.react-flow {
+    /* background: transparent; */
+}
+
+
+/* this makes the modal show above the others */
+.modal-backdrop {
+    background-color: "red";
+    z-index: -1;
+}
+
